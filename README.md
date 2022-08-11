@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CEPDEN, estudo no CEP.
-- 👀 I’m interested in  aprender programação
-- 🌱 I’m currently learning  programação de jogos
-CEPDEN/CEPDEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👋 Oi, eu sou @CEPDEN, estudo no CEP.
+- 👀 Eu estou interessado em  aprender programação
+- 🌱 Eu programo jogos/sites
 --->
 - 
